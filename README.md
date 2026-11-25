@@ -1,5 +1,9 @@
 # Bancada de projetos — CyberHuntLab
 
+<!-- vercel-demo:start -->
+> **Demo ao vivo:** [bancada-cyberhuntlab-1.vercel.app](https://bancada-cyberhuntlab-1.vercel.app) · hospedado na Vercel
+<!-- vercel-demo:end -->
+
 Página única com todos os repositórios públicos de Ana Caroline Lamas, organizados por área.
 Cada projeto abre em `/nome-do-projeto` (ex.: `/cwe-cover`, `/aegis`, `/cortador-916`).
 
