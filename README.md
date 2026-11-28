@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="Bancada CyberHuntLab — Vitrine com todos os projetos, cada um em /nome-do-projeto" width="100%"></p>
+
 # Bancada de projetos — CyberHuntLab
 
 <!-- vercel-demo:start -->
