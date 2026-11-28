@@ -16,3 +16,7 @@ Cada projeto abre em `/nome-do-projeto` (ex.: `/cwe-cover`, `/aegis`, `/cortador
 
 O `vercel.json` faz todas as rotas abrirem o `index.html`, então os links `/nome-do-projeto` funcionam.
 Abrindo o arquivo direto no computador, as rotas viram `#/nome-do-projeto`.
+
+## Login e painel
+`/entrar` (login com Google) e `/admin` usam a função `api/chl.mjs`. Na Vercel, defina
+`GOOGLE_CLIENT_ID`, `CHL_SESSION_SECRET` (32+ caracteres) e `ADMIN_EMAILS`.
